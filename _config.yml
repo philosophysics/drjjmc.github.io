@@ -1,5 +1,5 @@
 title:            Pretty Questions
-description:      Dr. JJMC's Blog 
+description:      Dr. JJMC's Blog
 disqus_shortname: hpstrtheme
 reading_time:     false
 words_per_minute: 200
@@ -11,33 +11,33 @@ url:
 owner:
   name:           John Joseph M. Carrasco
   avatar:         avatar.jpg
-  bio:            "Hi! I'm a professional theoretical physicist, which means I get to ask questions for a living. This is my blog." 
+  bio:            "Hi! I'm a professional theoretical physicist, which means I get to ask questions for a living."
   email:          dr.jjmc@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:
+  facebook:
+  github:
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    
+  google_plus:
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter: rouge
+highlighter: #rouge
 markdown:    kramdown
 gems:
   - jekyll-sitemap
@@ -49,7 +49,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 
+paginate: 9
 
 kramdown:
   auto_ids: true

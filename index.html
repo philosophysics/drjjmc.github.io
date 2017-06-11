@@ -1,7 +1,7 @@
 ---
 layout: post-index
 title:  A physicist's website...
-description: 
+description:
 tags: [Jekyll, theme, themes, responsive, blog, modern]
 comments: false
 image:
@@ -9,34 +9,20 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+<p>
+Hi and welcome! This is the permanent place for various curious, baubles, and gemgaws, I've curated  over the years.  Many involve code, and thought, and science that's been facilitated, often but not always, with code and thought.
+</p>
+<p>
+As I start making some of this more public this site may be a bit raw, but hopefuly the construction won't prove too frustrating.
+</p>
+<p>
+Occasionally I <a href="blog.html" title="Blog">blog</a>.
+</p>
 
-{% for post in paginator.posts %}
-<article class="hentry">
-  <header>
-    {% if post.image.feature %}
-      <div class="entry-image-index">
-        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
-      </div><!-- /.entry-image -->
-    {% endif %}
-    <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
-      {% if site.reading_time %}
-      <span class="entry-reading-time">
-        <i class="fa fa-clock-o"></i>
-        {% include read-time-index.html %}
-      </span><!-- /.entry-reading-time -->
-      {% endif %}
-    </div><!-- /.entry-meta -->
-    {% if post.link %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
-    {% else %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
-    {% endif %}
-  </header>
-  <div class="entry-content">
-    {{ post.content }}
-  </div><!-- /.entry-content -->
-</article><!-- /.hentry -->
-{% endfor %}
-
-{% include pagination.html %}
+<p>
+Enjoy! You can contact me via <a href="mailto:dr.jjmc@gmail.com">e-mail</a> if you have any questions, concerns, or large checks to deliver.
+</p>
+<p align="right">
+--<a href="about/">JJMC</a>
+<p align="right">
+<font size="-1">6/2017</font>

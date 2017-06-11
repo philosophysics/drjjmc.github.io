@@ -1,6 +1,7 @@
 ---
 layout: page
-title: More about this site...
+title: Pretty Questions
+subtitle: Author page
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -9,4 +10,6 @@ comments: false
 modified: 2017-05-29
 ---
 
-Hi! I'm John Joseph M. Carrasco, a tenured member of the Institute of Theoretical Physics, CEA-Saclay and University of Paris-Saclay.  I'm a professional theoretical physicist, which means I get to ask questions for a living. This is my blog.
+## About the author
+
+John Joseph M. Carrasco is a tenured member of the Institute of Theoretical Physics, CEA-Saclay and University of Paris-Saclay, where he has been officially since 2015.
