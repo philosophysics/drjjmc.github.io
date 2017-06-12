@@ -1,15 +1,14 @@
 # Authors
 
-John Joseph M. Carrasco:
+John_Joseph:
   name        : "John Joseph M. Carrasco"
-  uri         : "http://fancyphysics.com"
-  bio         : "Group Leader."
   avatar      : "me.jpg"
   twitter     : "jjmc"
-
-Michele Levi:
-  name        : "Michele Levi"
-  bio         : "Postdoc, Gravity"
+  facebook    : "drjjmc"
+  github      : "drjjmc"
+  impactstory : "0000-0002-4499-8488"
+  inspirehep  : "J.J.M.Carrasco.1"
+  google_scholar     : "yWNpZHwAAAAJ"
 
 FourOhFour:
   avatar        : "reimann.jpg"

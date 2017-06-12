@@ -34,6 +34,15 @@
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
+      {% if author.google_scholar %}
+        <li><a href="https://scholar.google.fr/citations?hl=en&oi=ao&user={{ author.google_scholar }}"><i class="fa fa-fw fa-google" aria-hidden="true"></i> Google Scholar</a></li>
+      {% endif %}
+      {% if author.inspirehep %}
+        <li><a href="http://inspirehep.net/author/profile/{{ author.inspirehep }}"><i class="fa fa-fw fa-file-pdf-o" aria-hidden="true"></i> inSPIRE</a></li>
+      {% endif %}
+      {% if author.impactstory %}
+        <li><a href="https://impactstory.org/u/{{ author.impactstory }}"><i class="fa fa-fw fa-bar-chart" aria-hidden="true"></i> Impactstory</a></li>
+      {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
