@@ -17,7 +17,7 @@ This means he gets to ask questions for a living.
 
 The cosmology bit means he sometimes asks big questions about the beginning of the universe, and how it got to be the way it is now, and where it might be going.  The theoretical physicist bit means the questions themselves have to make sense; they should fit into some sort of framework through which we hope to apprehend the rules of the universe in general.
 
-In fact, as a [Declarative Theoretical Physicist](http://fancyphysics.org) he strives to allow the art of achieving the *what* in his predictions to dictate the stories of the *how*. Towards this end he studies and looks for new structures in the scattering amplitudes of relativistic quantum field theories.
+In fact, as a [Declarative Theoretical Physicist](http://fancyphysics.org), he strives to allow the art of achieving the *what* in his predictions to dictate the stories of the *how*. Towards this end he studies and looks for new structures in the scattering amplitudes of relativistic quantum field theories.
 
 
 Prior to IPhT, he was a Member of the [Institute for Advanced Study](http://www.ias.edu) in Princeton,NJ and held a postdoctoral position at the [Stanford Institute for Theoretical Physics](https://sitp.stanford.edu). Dr. Carrasco received his doctorate at [UCLA](http://www.pa.ucla.edu) in 2010, after earning his undergraduate degree from [Caltech](http://pma.caltech.edu) in 2005.
