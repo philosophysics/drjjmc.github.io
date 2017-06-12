@@ -4,8 +4,9 @@ permalink: /
 title: "Pretty Questions"
 header:
   overlay_color: "#5e616c"
-  overlay_image: abstract-1.jpg
-  caption:
+  overlay_image: NGC_3752_lorez.jpg
+  overlay_filter: .4
+  caption: "[Image credit: **ESO/G. Beccari**](http://www.eso.org/public/images/eso1347a/)"
 excerpt: A PHYSICIST'S WEBSITE
 author: John_Joseph
 ---
