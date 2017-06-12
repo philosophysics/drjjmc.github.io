@@ -1,6 +1,6 @@
-# [Declarative Theoretical Physics Group Page](https://dtp-group.github.io/dtp-group/)
+# [John Joseph Carrasco's website](https://prettyquestions.com)
 
-Site source for the DTP Group at IPhT, CEA-Saclay & University of Paris-Saclay.
+Site source for my personal website. 
 
 Using [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
