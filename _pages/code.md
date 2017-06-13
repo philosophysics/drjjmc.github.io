@@ -14,10 +14,10 @@ author: John_Joseph
 comments: true
 ---
 
-I'll update here with links to code I've contributed to/developed.
+I'll update here with links to code I've contributed to/developed. -jjmc
 
 ## Related to the Effective Field Theory of Large Scale Structure
-Original papers [here](http://inspirehep.net/search?ln=en&ln=en&p=find+a+Carrasco+and+a+Senatore&of=hb&action_search=Search&sf=&so=d&rm=citation&rg=100&sc=0):
+Related original papers [here](http://inspirehep.net/search?ln=en&ln=en&p=find+a+Carrasco+and+a+Senatore&of=hb&action_search=Search&sf=&so=d&rm=citation&rg=100&sc=0):
 
 * *CosmoEFT:* Calculating 1 & 2-loop IR-safe power spectra for realistic cosmologies.  (c++)  Hosted [here](http://web.stanford.edu/~senatore/CosmoEFT.tar.gz)
 
@@ -30,7 +30,7 @@ Original papers [here](http://inspirehep.net/search?ln=en&ln=en&p=find+a+Carrasc
 * If there's interest, purely for pedagogy, I can upload some early Mathematica code for EFT of LSS at 1-loop including exact time evolution.
 
 ## Related to scattering amplitudes, unitarity, and double-copy.
-TASI 2014 lecture notes [here](http://arxiv.org/abs/arXiv:1506.00974).  
+Related TASI 2014 lecture notes [here](http://arxiv.org/abs/arXiv:1506.00974).  
 
-* **ampGraphTools:** Mathematica library for graph manipulation/dressing esp towards multiloops. Hosted [here](http://drjjmc.github.io/ampGraphTools_mma).
+* **ampGraphTools:** Mathematica library for graph manipulation/dressing esp towards multiloops. Hosted [here](https://github.com/drjjmc/ampGraphTools_mma).
    * I use this for pretty much any amplitudes calculation.  Working it's way towards documentation and actual public release.  Feel free to poke around.

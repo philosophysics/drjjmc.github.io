@@ -5,7 +5,7 @@ title: ""
 header:
   overlay_color: "#5e616c"
   overlay_image: doubleCopy.jpg
-  overlay_filter: .4
+  overlay_filter: .1
 excerpt: A PHYSICIST'S RESEARCH
 author: John_Joseph
 comments: true
