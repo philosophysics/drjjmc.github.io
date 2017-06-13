@@ -5,10 +5,13 @@ tags:
 permalink: /code/
 modified: 2017-06-12
 header:
-  overlay_image: me2.jpg
-  overlay_filter: 0.1
-excerpt: CODE
+  overlay_color: "#5e616c"
+  overlay_image: ann13016a.jpg
+  overlay_filter: .4
+  caption: "[Image credit: **ESO/C. Malin **](http://www.eso.org/public/images/ann13016a/)"
+excerpt: A PHYSICIST'S CODE
 author: John_Joseph
+comments: true
 ---
 
 I'll update here with links to code I've contributed to/developed.

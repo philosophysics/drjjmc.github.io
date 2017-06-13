@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: splash
+layout: single
 tags:
 permalink: /about/
 modified: 2017-06-12
@@ -8,6 +8,8 @@ header:
   overlay_image: me2.jpg
   overlay_filter: 0.1
 excerpt: "ABOUT THE AUTHOR"
+author: John_Joseph
+comments: true
 ---
 
 ## Bio
@@ -40,5 +42,6 @@ When not thinking/doing/teaching/sharing science for fun and profit, he runs, sk
 * Guy Weyl Physics Alumni Graduate Fellowship (2007-2010).
 * John S. Bell Named Diploma, Erice International School of Subnuclear Physics (2008).
 * Best [open] Question Prize [^footnote], Erice International School of Subnuclear Physics (2008).
+
 
 [^footnote]: re: economy of physical descriptions, c.f. the amount of information encoded in real numbers.

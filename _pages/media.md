@@ -4,9 +4,9 @@ permalink: /media/
 title: "Pretty Questions"
 header:
   overlay_color: "#5e616c"
-  overlay_image: NGC_3752_lorez.jpg
+  overlay_image: eso0934a.jpg
   overlay_filter: .4
-  caption: "[Image credit: **ESO/G. Beccari**](http://www.eso.org/public/images/eso1347a/)"
+  caption: "[Image credit: **ESO//S. Guisard **](http://www.eso.org/public/images/eso0934a/)"
 excerpt: Media and Outreach
 author: John_Joseph
 
