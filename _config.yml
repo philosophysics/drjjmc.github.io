@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Pretty Questions"
 title_separator          : "-"
 name                     : &name "John Joseph M. Carrasco"
 description              : &description "Personal website for John Joseph M. Carrasco."

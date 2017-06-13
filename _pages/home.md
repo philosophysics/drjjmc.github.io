@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Pretty Questions"
+title: ""
 header:
   overlay_color: "#5e616c"
   overlay_image: NGC_3752_lorez.jpg
@@ -14,7 +14,7 @@ author: John_Joseph
 {% include base_path %}
 Hi and welcome!
 
-This is my public spot for various curios, baubles, and gewgaws I've been curating over the years.
+This is my relatively new public spot for various curios, baubles, and gewgaws I've been curating over the years.
 
 As I start making more of this public, the website may be a bit raw, but hopefully the construction won't prove too frustrating.
 
