@@ -12,8 +12,8 @@ comments: true
 
 This version of the site policy was posted in June 2017 and applies going forward from then. I'll provide an updated link whenever I update the policy.
 
-The text was lifted Titus Browns site policy at the url
-[http://ivory.idyll.org/blog/2015-site-policies.html](http://ivory.idyll.org/blog/2015-site-policies.html) which was in term modified from Captain Awkward's site policy at the URL [http://captainawkward.com/site-policies-and-faqs/](http://captainawkward.com/site-policies-and-faqs/).
+The text was lifted Titus Browns site policy at
+[http://ivory.idyll.org/blog/2015-site-policies.html](http://ivory.idyll.org/blog/2015-site-policies.html) which was in term modified from Captain Awkward's site policy at  [http://captainawkward.com/site-policies-and-faqs/](http://captainawkward.com/site-policies-and-faqs/).
 
 I'm open to suggestions for additions and removals; please post them in comments. However, this set of policies stands until I change them - thanks for abiding by them!
 
