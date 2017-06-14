@@ -40,7 +40,7 @@ I will moderate. Not every point of view deserves to be heard. Unmoderated space
 
 Anonymous posting is allowed. Using a consistent identity is encouraged.
 
-Your comments will not show up immediately; they'll require my explicit approval via a pull-merge on the git supporting this site. Alert me via e-mail at [jjmc@prettyquestions.com] (mailto:jjmc@prettyquestions.com) if one of your comments doesn't appear after some human-scale period of time, but realize people sleep at different times throughout the globe.
+Your comments will not show up immediately; they'll require my explicit approval via a pull-merge on the git supporting this site. Alert me via e-mail at [jjmc@prettyquestions.com](mailto:jjmc@prettyquestions.com) if one of your comments doesn't appear after some human-scale period of time, but realize people sleep at different times throughout the globe.
 
 Of course, sometimes comments won't show up because I delete them. This is a dictatorship, and I can delete any comment at any time for any reason. There may not be a warning or explanation of why your comment was deleted.
 
