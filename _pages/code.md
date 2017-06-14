@@ -27,7 +27,7 @@ Related original papers [here](http://inspirehep.net/search?ln=en&ln=en&p=find+a
 
 * See also other useful EFT code Leonardo has curated / been involved with: [here](http://web.stanford.edu/~senatore/), esp. towards resumming in the IR.
 
-* If there's interest, purely for pedagogy, I can upload some early Mathematica code for EFT of LSS at 1-loop including exact time evolution.
+* If there's pedagogic interest, I can upload some early Mathematica code for EFT of LSS at 1-loop including exact time evolution.
 
 ## Related to scattering amplitudes, unitarity, and double-copy.
 Related TASI 2014 lecture notes [here](http://arxiv.org/abs/arXiv:1506.00974).  
