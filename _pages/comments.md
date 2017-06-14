@@ -3,6 +3,7 @@ permalink: /comments/
 title: "Commenting policy"
 modified: 2017-06-14
 author_profile: false
+comments: true
 ---
 
 {% include base_path %}
