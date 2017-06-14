@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: splash
+layout: single
 tags:
 permalink: /code/
 modified: 2017-06-12
