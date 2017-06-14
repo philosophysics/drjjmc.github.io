@@ -1,13 +1,13 @@
 ---
 layout: single
 permalink: /media/
-title: "Pretty Questions"
+title: "Media and Outreach "
 header:
   overlay_color: "#5e616c"
   overlay_image: eso0934a.jpg
   overlay_filter: .4
   caption: "[Image credit: **ESO//S. Guisard **](http://www.eso.org/public/images/eso0934a/)"
-excerpt: Media and Outreach
+excerpt: 
 author: John_Joseph
 
 feature_row:

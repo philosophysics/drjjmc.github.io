@@ -1,12 +1,12 @@
 ---
 layout: single
 permalink: /research/
-title: ""
+title: "A physicist's research"
 header:
   overlay_color: "#5e616c"
   overlay_image: doubleCopy.jpg
   overlay_filter: .1
-excerpt: A PHYSICIST'S RESEARCH
+excerpt: ""
 author: John_Joseph
 comments: true
 ---

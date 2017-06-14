@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "A physicist's code"
 layout: single
 tags:
 permalink: /code/
@@ -9,7 +9,7 @@ header:
   overlay_image: ann13016a.jpg
   overlay_filter: .4
   caption: "[Image credit: **ESO/C. Malin **](http://www.eso.org/public/images/ann13016a/)"
-excerpt: A PHYSICIST'S CODE
+excerpt:
 author: John_Joseph
 comments: true
 ---
@@ -19,9 +19,11 @@ I'll update here with links to code I've contributed to/developed. -jjmc
 ## Related to the Effective Field Theory of Large Scale Structure
 Related original papers [here](http://inspirehep.net/search?ln=en&ln=en&p=find+a+Carrasco+and+a+Senatore&of=hb&action_search=Search&sf=&so=d&rm=citation&rg=100&sc=0):
 
-* *CosmoEFT:* Calculating 1 & 2-loop IR-safe power spectra for realistic cosmologies.  (c++)  Hosted [here](http://web.stanford.edu/~senatore/CosmoEFT.tar.gz)
+* **CosmoEFT:** Calculating 1 & 2-loop IR-safe power spectra for realistic cosmologies.  (c++)  Hosted [here](http://web.stanford.edu/~senatore/CosmoEFT.tar.gz)
 
-    * Uses Copter ([here](http://mwhite.berkeley.edu/Copter/)) to map from transfer function + cosmology to linear powerspectrum , and the monte carlo library CUBA ([here](http://www.feynarts.de/cuba/))  for integration.
+    * Uses Copter ([here](http://mwhite.berkeley.edu/Copter/)) to map from transfer function + cosmology to linear powerspectrum.
+
+    * Uses the monte carlo library CUBA ([here](http://www.feynarts.de/cuba/))  for integration.
 
     * Originally developed in a project with Daniel Green, Simon Forman, and Leonardo Senatore towards precision EFTofLSS predictions at two-loops. Updated later to expand around Planck Best-fit Cosmology by M. Cataneo and S. Forman. Currently maintained by [M. Cataneo](http://www.ph.ed.ac.uk/people/matteo-cataneo).
 

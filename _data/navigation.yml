@@ -39,5 +39,11 @@ main:
 #  - title: "Resources for new members"
 #    url: /collection-archive/
 
+  - title: "Commenting Policy"
+    url: /comments/
+
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
+
+  - title: "Suggestion Box"
+    url: /suggestions/
