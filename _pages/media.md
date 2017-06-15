@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /media/
 title: "Media and Outreach "
 header:
@@ -7,8 +7,7 @@ header:
   overlay_image: eso0934a.jpg
   overlay_filter: .4
   caption: "[Image credit: **ESO//S. Guisard **](http://www.eso.org/public/images/eso0934a/)"
-excerpt: 
-author: John_Joseph
+excerpt: ""
 
 feature_row:
   - url: https://www.quantamagazine.org/big-bang-secrets-swirling-in-a-fluid-universe-20140212/
@@ -22,6 +21,7 @@ feature_row:
     alt: "Dbl Copy Article"
     btn_label: "Read"
 ---
+
 
 {% include base_path %}
 ## Links to News / Popular Articles
