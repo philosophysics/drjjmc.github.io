@@ -14,7 +14,7 @@ author: John_Joseph
 {% include base_path %}
 Hi and welcome!
 
-This is my relatively new public spot for various curios, baubles, and gewgaws I've been curating over the years.
+This is my relatively new public spot for various cognitive curios, baubles, and gewgaws I've been curating over the years.
 
 As I start making more of this public, the website may be a bit raw, but hopefully the construction won't prove too frustrating.  If you spot something amiss or you have a recommendation for the site,
 please leave a [suggestion](/suggestions/).
