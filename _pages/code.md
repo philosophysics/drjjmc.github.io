@@ -6,9 +6,9 @@ permalink: /code/
 modified: 2017-06-12
 header:
   overlay_color: "#5e616c"
-  overlay_image: ann13016a.jpg
+  overlay_image: graphOps.jpg
   overlay_filter: .4
-  caption: "[Image credit: **ESO/C. Malin **](http://www.eso.org/public/images/ann13016a/)"
+  caption: ""
 excerpt:
 author: John_Joseph
 comments: true
@@ -25,7 +25,7 @@ Related original papers [here](http://inspirehep.net/search?ln=en&ln=en&p=find+a
 
     * Uses the monte carlo library CUBA ([here](http://www.feynarts.de/cuba/))  for integration.
 
-    * Originally developed in a project with Daniel Green, Simon Forman, and Leonardo Senatore towards precision EFTofLSS predictions at two-loops. Updated later to expand around Planck Best-fit Cosmology by M. Cataneo and S. Forman. Currently maintained by [M. Cataneo](http://www.ph.ed.ac.uk/people/matteo-cataneo).
+    * Originally developed in a project with Daniel Green, Simon Forman, and Leonardo Senatore towards precision EFTofLSS predictions at two-loops. Updated later to expand around Planck Best-fit Cosmology by M. Cataneo and S. Forman for [this paper](https://inspirehep.net/record/1469026). Currently maintained by [M. Cataneo](http://www.ph.ed.ac.uk/people/matteo-cataneo).
 
 * See also other useful EFT code Leonardo has curated / been involved with: [here](http://web.stanford.edu/~senatore/), esp. towards resumming in the IR.
 
