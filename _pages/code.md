@@ -6,7 +6,7 @@ permalink: /code/
 modified: 2017-06-12
 header:
   overlay_color: "#5e616c"
-  overlay_image: graphOps.jpg
+  overlay_image: sixPtRelations.jpg
   overlay_filter: .4
   caption: ""
 excerpt:
