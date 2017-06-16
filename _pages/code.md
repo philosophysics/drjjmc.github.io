@@ -16,9 +16,9 @@ comments: true
 
 ## Related to the Effective Field Theory of Large Scale Structure
 * some relevant EFTofLSS papers:
-  * [[Establishing the EFT](http://arxiv.org/abs/arXiv:1206.2926)]
-  * [[IR-safe two-loop power spectrum](http://arxiv.org/abs/arXiv:1304.4946)]
-  * [[EFT at two-loops](http://arxiv.org/abs/arXiv:1310.0464) ]
+  * [Establishing the EFT](http://arxiv.org/abs/arXiv:1206.2926)
+  * [IR-safe two-loop power spectrum](http://arxiv.org/abs/arXiv:1304.4946)
+  * [EFT at two-loops](http://arxiv.org/abs/arXiv:1310.0464)
 
 * **CosmoEFT:** Calculating 1 & 2-loop IR-safe power spectra for realistic cosmologies.  (c++)  Hosted [here](http://web.stanford.edu/~senatore/CosmoEFT.tar.gz)
 
