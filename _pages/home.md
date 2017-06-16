@@ -4,15 +4,17 @@ permalink: /
 title: "A physicist's website"
 header:
   overlay_color: "#5e616c"
-  overlay_image: NGC_3752_lorez.jpg
+  overlay_image: bubbleTracks.jpg
   overlay_filter: .4
-  caption: "[Image credit: **ESO/G. Beccari**](http://www.eso.org/public/images/eso1347a/)"
+  caption: "[Image credit: **FNAL**](https://history.fnal.gov/neutrino.html)"
 excerpt: ""
 author: John_Joseph
 ---
 
 {% include base_path %}
 Hi and welcome!
+
+My name is John Joseph Carrasco and I'm a permanent member of the Institute for Theoretical Physics ([IPhT](http://ipht.cea.fr)) with a wide range of interests in fundamental physics.
 
 This is my relatively new public spot for various cognitive curios, baubles, and gewgaws I've been curating over the years.
 

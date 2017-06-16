@@ -5,14 +5,14 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Media/Outreach"
-    url: /media/
-
   - title: "Research"
     url: /research/
 
   - title: "Code"
     url: /code/
+
+  - title: "Media/Outreach"
+    url: /media/
 
 #  - title: Blog
 #    url: /blog/
