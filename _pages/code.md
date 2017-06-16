@@ -14,8 +14,6 @@ author: John_Joseph
 comments: true
 ---
 
-I'll update here with links to code I've contributed to/developed. -jjmc
-
 ## Related to the Effective Field Theory of Large Scale Structure
 * some relevant EFTofLSS papers:
   * [[Establishing the EFT](http://arxiv.org/abs/arXiv:1206.2926)]
