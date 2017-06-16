@@ -7,7 +7,7 @@ header:
   overlay_image: NGC_3752_lorez.jpg
   overlay_filter: .4
   caption: "[Image credit: **ESO/G. Beccari**](http://www.eso.org/public/images/eso1347a/)"
-excerpt:
+excerpt: ""
 author: John_Joseph
 ---
 

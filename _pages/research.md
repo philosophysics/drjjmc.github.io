@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: doubleCopy.jpg
   overlay_filter: .1
-excerpt: ""
+excerpt: '"*The time has come*", the Walrus said. <br> "*To talk of many things:*"'
 author: John_Joseph
 comments: true
 ---

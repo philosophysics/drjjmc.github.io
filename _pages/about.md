@@ -6,8 +6,7 @@ permalink: /about/
 modified: 2017-06-12
 header:
   overlay_image: me2.jpg
-  overlay_filter: 0.1
-excerpt: ""
+excerpt: "<br>"
 author: John_Joseph
 comments: true
 ---

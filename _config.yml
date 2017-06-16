@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "John Joseph M. Carrasco"
 title_separator          : "-"
 name                     : &name "John Joseph M. Carrasco"
-description              : &description "Personal website for John Joseph M. Carrasco.  I'm a theoretical physicist and cosmologist."
+description              : &description "Personal website for John Joseph M. Carrasco.  I'm a theoretical physicist and cosmologist in Paris."
 url                      : "http://prettyquestions.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drjjmc/drjjmc.github.io"
@@ -67,8 +67,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-          # - "https://twitter.com/mmistakes"
-          #- "https://facebook.com/michaelrose"
+          - "https://twitter.com/jjmc"
+          - "https://facebook.com/drjjmc"
 
 # Analytics
 analytics:
