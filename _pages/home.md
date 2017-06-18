@@ -1,13 +1,13 @@
 ---
-layout: single
+#layout: single
 permalink: /
 title: "A physicist's website"
 header:
-  overlay_color: "#5e616c"
+#  overlay_color: "#5e616c"
   overlay_image: bubbleTracks.jpg
-  overlay_filter: .4
+#  overlay_filter: .4
   caption: "[Image credit: **FNAL**](https://history.fnal.gov/neutrino.html)"
-excerpt: ""
+#excerpt: ""
 author: John_Joseph
 ---
 
@@ -18,8 +18,8 @@ My name is John Joseph Carrasco and I'm a permanent member of the Institute for 
 
 This is my relatively new public spot for various cognitive curios, baubles, and gewgaws I've been curating over the years.
 
-As I start making more of this public, the website may be a bit raw, but hopefully the construction won't prove too frustrating.  If you spot something amiss or you have a recommendation for the site,
-please leave a [suggestion](/suggestions/).
+As I start making more of this public, the website may be a bit raw.  If you spot something amiss or you have a recommendation for the site,
+please feel free to  leave a [suggestion](/suggestions/).
 
 Enjoy!   
 --[jjmc](mailto:jjmc@prettyquestions.com)
