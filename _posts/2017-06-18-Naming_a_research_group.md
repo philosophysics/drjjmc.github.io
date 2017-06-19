@@ -19,6 +19,7 @@ Computers?
 An early contender was *"Advanced" Theoretical Physics*, in the computer-aided spirit of [Advanced Chess](https://en.wikipedia.org/wiki/Advanced_Chess).  Unlike some of our antecedents, I don't view engaging symbolic processor neural adjuncts as some sort of intellectual *juicing*[^juice]. Indeed I find myself more than happy to automate any aspect of my inquiry towards improved:
   * Accuracy (Verifiability / Reproducibility);
   * Coverage.
+  
 Both of which up the chance of discovering something truly interesting.  I'll likely be writing more about all of these soon.
 
 [^juice]: That said we're completely willing to support a hep-th sub-branch for papers built with neither *Mathematica* nor *caffeine*.
@@ -79,6 +80,6 @@ The more that I thought about it the more I realized that most of my approach is
  I believe in predictions up to the point that they are consistent with actual observations.  I tend to think of the stories we have so far developed  behind them as effective just-so tales: grasping, yes, some essence of truth, but certainly not the only or ultimate way the universe behaves.  Of course I'm deeply impressed by the ultra-soft UV behavior of our favorite extended theories, or even the renormalizable behavior of our miraculous pointlike non-abelian gauge theories.  Does that mean I really believe they hold to all---or even any---scales beyond which they've been observed?  I think it's possible, but I also expect surprises from the universe.
 
  In my research, with fantastic collaborators, I've  discovered startling new structure unifying theories that have been at the heart of modern physics for decades and decades.  I believe as we gather more
-theoretical data ---  the *what* --- and we allow ourselves to play with different compatable stories, we'll find ever more efficient, and ever more meaningful *how's*. That is if we don't stay too tied down to what we think we already know.  It's this focus on the *what*, allowing a freedom in the *how*, that ended up suggesting the group name I finally decided on.
+theoretical data ---  the *what* --- and we allow ourselves to play with different compatible stories, we'll find ever more efficient, and ever more meaningful *how's*. That is if we don't stay too tied down to what we think we already know.  It's this focus on the *what*, allowing a freedom in the *how*, that ended up suggesting the group name I finally decided on.
 
 I take my inspiration from a certain paradigm of programming -- a functional one, where one writes one's algorithms focused on the logic -- the objective --  and not so much the control-flow -- how it gets done.  This is called ["declarative programming"](https://en.wikipedia.org/wiki/Declarative_programming), and so it is in that sense I give you the Paris-Saclay Group for [*Declarative Theoretical Physics*](http://fancyphysics.org).
