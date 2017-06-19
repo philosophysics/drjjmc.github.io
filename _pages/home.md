@@ -1,5 +1,5 @@
----
-#layout: single
+single
+layout: home
 permalink: /
 title: "A physicist's website"
 header:
