@@ -17,27 +17,30 @@ So recently I found myself in the rather novel position of having to name my res
 
 Computers?
 ---------
-An early contender was *"Advanced" Theoretical Physics*, in the computer-aided spirit of [Advanced Chess](https://en.wikipedia.org/wiki/Advanced_Chess).  Unlike some of our antecedents, I don't view engaging symbolic processor neural adjuncts as some sort of intellectual *juicing*[^juice]. Indeed I find myself more than happy to automate any aspect of my inquiry towards improved:
+An early contender was *"Advanced" Theoretical Physics*, in the computer-aided spirit of [Advanced Chess](https://en.wikipedia.org/wiki/Advanced_Chess).  Unlike some of our antecedents, I don't view engaging symbolic processor neural-adjuncts as some sort of intellectual *juicing*[^juice]. Indeed I'm more than happy to automate any aspect of my inquiry towards improved:
   * Accuracy (Verifiability / Reproducibility);
   * Coverage.
 
-Both of which up the chance of discovering something truly interesting.  I'll likely be writing more about all of these soon.
+Both of which up the chances of discovering something truly interesting.  I'll likely be writing more about all of these soon.
 
 [^juice]: That said we're completely willing to support a hep-th sub-branch for papers built with neither *Mathematica* nor *caffeine*.
 
-But as much as I enjoy and respect the ever increasing meta-cognitive aspects of engaging our silicon friends to aid in the quest for deeper knowledge, I don't really think of this as a central enough tenant so as to be *defining*. Also, and all things being equal, it's worth considering the following point: using the word *advanced* to describe one's own work is the type of thing that just tends to piss people off.  I'm preternaturally pleased with myself whenever I manage to avoid arbitrarily aggravating my colleagues. So what should my group be called?
+But as much as I enjoy the ever increasing meta-cognitive aspects of engaging our silicon friends to aid in the quest for deeper knowledge, I don't really think of this as a central enough tenant so as to be *defining*.
+
+Also, and all things being equal, it's worth considering the following point: using the word *advanced* to describe one's own work is the type of thing that tends to piss people off.  I'm preternaturally pleased with myself whenever I realize there's an opportunity to avoid arbitrarily aggravating my colleagues. So what should my group be called?
 
 Calculations?
 -------------
-Some people might think theoretical physicists sit around dreaming big dreams. Sure we do, but what we work on is making predictions: some very formal like the high-energy (small-distance) behavior of supergravity. Some are highly phenomenological like early Dark Matter evolution towards the cosmological formation of Large Scale Structure.  My group doesn't shy away from technically challenging problems -- rather we see them as strategic pressure to push our current ideas, tools, and interpretations to their failure-point.  That said every
-calculation we do is driven by a deep curiosity.  Every time we gear up for one of our analytic "experiments" we do so because we
-expect the *analytic data* we extract to be invaluable.  So while we're partial to calculating, it's the resulting data we're interested in; the journey might be fun, but in our case we really are interested in the destination.
+A common trope is that theoretical physicists ambulate about dreaming big dreams. Sure we do. But what we *work* on is making predictions: some very formal like the high-energy (small-distance) behavior of supergravity. Some are highly phenomenological like early Dark Matter evolution towards the cosmological formation of Large Scale Structure.  
+
+My group doesn't shy away from technically challenging problems -- rather we see them as providing strategic pressure to push our current ideas, tools, and interpretations to their failure-point.  Yet, every calculation we do is driven by a deep curiosity.  Every time we gear up for one of our analytic "experiments" we do so because we
+expect the *theoretical data* we extract to be invaluable.  So while we're partial to calculating, it's the resulting data we're interested in; the journey might be fun, but in our case we really are interested in the destination.
 
 Perturbation?
 -------------
-Physicists like to get to the nub of an issue -- simplifying away the stuff we don't care about to get to the heart of the stories worth telling.  Even when you've simplified away all the details you think are garbage relevant to what you want to explore) you're often confronted with some differential equations whose solution may have important properties you don't sufficiently appreciate.
+Physicists like to get to the nub of an issue -- simplifying away the stuff we don't care about to get to the heart of the stories worth telling.  Even when you've simplified away all the details you think are garbage (relevant to what you want to explore) you're often confronted with some differential equations whose solution may have important properties you don't sufficiently appreciate.
 
-> Let me make an aside here about solutions and differential equations.  Did I say "confronted with diffEQ's whose solution you do not know?"  I absolutely did not!  I hope the following tautology is obvious to everyone:  By specifying some (set of) differential equation(s) you've implicitly specified the class of solutions.  Ever since I was young and volatile, it always got under my skin to hear people say they don't know the solution to a differential equation.  Differential equations tell us how functions behave -- what else could anyone want in a solution??
+> Let me make an aside here about solutions and differential equations.  Did I say "confronted with diffEQs whose solution you do not know?"  I absolutely did not!  I hope the following tautology is obvious to everyone:  By specifying some (set of) differential equation(s) you've implicitly specified the class of solutions.  Ever since my volatile youth, it always got under my skin to hear people say they don't know the solution to a differential equation.  Differential equations tell us how functions behave -- what else could anyone want in a solution??
 >
 > Let's just consider a simple example that's in a very real sense (with a slight generalization) kind of behind everything:
 $$
