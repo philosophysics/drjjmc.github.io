@@ -40,7 +40,7 @@ Perturbation?
 -------------
 Physicists like to get to the nub of an issue -- simplifying away the stuff we don't care about to get to the heart of the stories worth telling.  Even when you've simplified away all the details you think are garbage (relevant to what you want to explore) you're often confronted with some differential equations whose solution may have important properties you don't sufficiently appreciate.
 
-> Let me make an aside here about solutions and differential equations.  Did I say "confronted with diffEQs whose solution you do not know?"  I absolutely did not!  I hope the following tautology is obvious to everyone:  By specifying some (set of) differential equation(s) you've implicitly specified the class of solutions.  Ever since my volatile youth, it always got under my skin to hear people say they don't know the solution to a differential equation.  Differential equations tell us how functions behave -- what else could anyone want in a solution??
+> Let me make an aside here about solutions and differential equations.  Did I say "confronted with diffEQs whose solution you do not know?"  I absolutely did not!  I hope the following tautology is obvious to everyone:  By specifying some (set of) differential equation(s) you've implicitly specified the class of solutions.  Ever since my volatile youth, it always got under my skin to hear people say they don't know the function that solves a differential equation.  Differential equations tell us how functions behave -- what else could anyone want in a solution??
 >
 > Let's just consider a simple example that's in a very real sense (with a slight generalization) kind of behind everything:
 $$
