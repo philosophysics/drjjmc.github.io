@@ -1,0 +1,45 @@
+---
+layout: archive
+title: "A physicist's website"
+header:
+#  overlay_color: "#5e616c"
+  overlay_image: bubbleTracks.jpg
+#  overlay_filter: .4
+  caption: "[Image credit: **FNAL**](https://history.fnal.gov/neutrino.html)"
+#excerpt: ""
+author: John_Joseph
+---
+
+{% include base_path %}
+
+<p>Hi and welcome!</p>
+
+<p>This is my relatively new public spot for various cognitive curios, baubles, and gewgaws I&#8217;ve been curating over the years.</p>
+
+<p>As I start making more of this public, the website may be a bit raw.  If you spot something amiss or you have a recommendation for the site,
+please feel free to  leave a [<a href="/suggestions/">suggestion</a>].</p>
+
+<p>Enjoy! <br />
+&#8211;<a href="mailto:jjmc@prettyquestions.com">jjmc</a></p>
+
+<p>6/2017</p>
+
+
+
+{% if paginator.page == 1 %}
+  {% assign pinned = site.posts | where:"pinned","true" %}
+  {% if pinned.size > 0 %}
+    <h3 class="archive__subtitle"><i class="fa fa-thumb-tack" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].pinned_posts | default: "Pinned Posts" }}</h3>
+    {% for post in pinned %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}

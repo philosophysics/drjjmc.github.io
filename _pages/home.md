@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /
+permalink: /oldHome
 title: "A physicist's website"
 header:
 #  overlay_color: "#5e616c"

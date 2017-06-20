@@ -10,6 +10,7 @@ tags:
 - perturbations
 - calculus helps
 author: John_Joseph
+pin: true
 ---
 
 So recently I found myself in the rather novel position of having to name my research group.  This was a bit of a stumper, as my interests aren't particularly narrow, and I've been hiring fairly broadly.  
@@ -19,7 +20,7 @@ Computers?
 An early contender was *"Advanced" Theoretical Physics*, in the computer-aided spirit of [Advanced Chess](https://en.wikipedia.org/wiki/Advanced_Chess).  Unlike some of our antecedents, I don't view engaging symbolic processor neural adjuncts as some sort of intellectual *juicing*[^juice]. Indeed I find myself more than happy to automate any aspect of my inquiry towards improved:
   * Accuracy (Verifiability / Reproducibility);
   * Coverage.
-  
+
 Both of which up the chance of discovering something truly interesting.  I'll likely be writing more about all of these soon.
 
 [^juice]: That said we're completely willing to support a hep-th sub-branch for papers built with neither *Mathematica* nor *caffeine*.
