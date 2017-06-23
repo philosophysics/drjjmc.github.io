@@ -3,7 +3,7 @@ title: "A physicist's code"
 layout: single
 tags:
 permalink: /code/
-modified: 2017-06-12
+modified: 2017-06-23
 header:
   overlay_color: "#5e616c"
   overlay_image: sixPtRelations.jpg
