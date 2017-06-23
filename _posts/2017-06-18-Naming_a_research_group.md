@@ -23,7 +23,7 @@ An early contender was *"Advanced" Theoretical Physics*, in the computer-aided s
 
 Both of which up the chances of discovering something truly interesting.  I'll likely be writing more about all of these soon.
 
-[^juice]: That I'm completely willing to back a proposal for a **straight-edge** arXiv  sub-branch for research performed with neither *Mathematica* nor *caffeine*.
+[^juice]: That said, I'm completely willing to back a proposal for a **straight-edge** arXiv  sub-branch for research performed with neither *Mathematica* nor *caffeine*.
 
 But as much as I enjoy the ever increasing meta-cognitive aspects of engaging our silicon friends to aid in the quest for deeper knowledge, I don't really think of this as a central enough tenant so as to be *defining*.
 
