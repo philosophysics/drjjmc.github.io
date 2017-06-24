@@ -3,9 +3,9 @@ layout: single
 permalink: /oldHome
 title: "A physicist's website"
 header:
-#  overlay_color: "#5e616c"
+  overlay_color: "#5e616c"
   overlay_image: bubbleTracks.jpg
-#  overlay_filter: .4
+  overlay_filter: .4
   caption: "[Image credit: **FNAL**](https://history.fnal.gov/neutrino.html)"
 #excerpt: ""
 author: John_Joseph
