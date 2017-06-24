@@ -9,10 +9,11 @@ header:
   overlay_image: sixPtRelations.jpg
   overlay_filter: .4
   caption: ""
-excerpt:
+excerpt: 
 author: John_Joseph
 comments: true
 ---
+
 
 ## Related to the Effective Field Theory of Large Scale Structure
 
