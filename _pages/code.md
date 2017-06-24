@@ -9,7 +9,7 @@ header:
   overlay_image: sixPtRelations.jpg
   overlay_filter: .4
   caption: ""
-excerpt: 
+excerpt:
 author: John_Joseph
 comments: true
 ---
@@ -23,7 +23,7 @@ comments: true
 
     * Uses the [Monte-Carlo integration](https://en.wikipedia.org/wiki/Monte_Carlo_integration)  library [CUBA](http://www.feynarts.de/cuba/).
 
-    * Originally developed in a project with Daniel Green, Simon Forman, and Leonardo Senatore towards precision EFTofLSS predictions at two-loops. Updated later to expand around Planck Best-fit Cosmology by M. Cataneo and S. Forman for [this paper](https://inspirehep.net/record/1469026). Currently maintained by [M. Cataneo](http://www.ph.ed.ac.uk/people/matteo-cataneo).
+    * Originally developed  in a project with Daniel Green, Simon Forman, and Leonardo Senatore towards precision EFTofLSS predictions at two-loops. Updated later to expand around Planck Best-fit Cosmology by M. Cataneo and S. Forman for [this paper](https://inspirehep.net/record/1469026). Currently maintained by [M. Cataneo](http://www.ph.ed.ac.uk/people/matteo-cataneo).
 
 * See also other useful EFT code Leonardo has curated / been involved with: [here](http://web.stanford.edu/~senatore/), esp. towards resumming in the IR.
 
