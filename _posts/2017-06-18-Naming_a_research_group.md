@@ -10,7 +10,7 @@ tags:
 - perturbations
 - calculus helps
 author: John_Joseph
-pin: true
+pinned: false
 ---
 
 So recently I found myself in the rather novel position of having to name my research group.  This was a bit of a stumper, as my interests aren't particularly narrow, and I've been hiring fairly broadly.  
