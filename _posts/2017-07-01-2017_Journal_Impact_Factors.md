@@ -3,7 +3,7 @@ title: Journal impact factors???
 header:
   image: citation.png
 categories:
-- quick note
+- thoughts
 tags:
 - sociology
 - the academy
