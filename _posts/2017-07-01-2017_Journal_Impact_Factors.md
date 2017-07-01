@@ -1,9 +1,6 @@
 ---
 title: Journal impact factors???
 header:
-  overlay_color: "#5e616c"
-  overlay_image: citation.png
-  overlay_filter: .8
   image: citation.png
 categories:
 - quick note
