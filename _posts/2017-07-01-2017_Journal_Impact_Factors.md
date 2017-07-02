@@ -1,9 +1,9 @@
 ---
 title: Journal impact factors???
-header:
-  image: citation.png
 categories:
 - thoughts
+header:
+   teaser: http://prettypictures.com/images/citation.png
 tags:
 - sociology
 - the academy
