@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Group Code of Conduct"
 layout: single
 permalink: /conduct/

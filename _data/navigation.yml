@@ -11,11 +11,11 @@ main:
   - title: "Code"
     url: /code/
 
-  - title: "Posts"
-    url: /posts/
-
   - title: "Media/Outreach"
     url: /media/
+
+  - title: "Posts"
+    url: /posts/
 
   - title: "Commenting Policy"
     url: /comments/
