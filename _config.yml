@@ -14,7 +14,7 @@ description              : &description "Personal website for John Joseph M. Car
 url                      : "http://prettyquestions.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drjjmc/drjjmc.github.io"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "me.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,7 +83,7 @@ author:
   avatar           : "me.jpg" #"michael-rose.jpg"
   bio              : #"Just another boring, tattooed, time traveling, designer."
   location         : #"Buffalo, NY"
-  email            :
+  email            : "jjmc@prettyquestions.com"
   uri              : #"https://mademistakes.com"
   bitbucket        :
   codepen          :
