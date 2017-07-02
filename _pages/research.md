@@ -13,7 +13,7 @@ comments: true
 To see open hosted preprints and journal articles follow the inSPIRE link in the sidebar,
 or click [here](http://inspirehep.net/search?ln=en&ln=en&p=find+a+J+J++carrasco&of=hb&action_search=Search&sf=&so=d&rm=&rg=100&sc=0).
 
-My group's web page is hosted at [http://fancyphysics.org](http://fancyphysics.org).
+My group's web page is hosted at [http://fancyphysics.org](http://fancyphysics.org), where you can find my recent grant proposals [here](http://fancyphysics.org/funding).
 
 ## Big Questions:
   * What unifies our physical predictions?

@@ -3,13 +3,16 @@ title: Journal impact factors???
 categories:
 - thoughts
 header:
-   teaser: http://prettyquestions.com/images/citation.png
+   overlay_color: "#5e616c"
+   overlay_image: citation.png
+   overlay_filter: .8
+   teaser: citation.png
 tags:
 - sociology
 - the academy
 - publication
 author: John_Joseph
-excerpt: Theoretical physicists cluster with honey badgers as far as JIF are concerned.  Such intestinal fortitude's a possible result of lots of players, few seats, and long songs in academic musical chairs.
+excerpt: Wherein I relate formal theorists to carnivorous mustelids.
 pinned: false
 ---
 
