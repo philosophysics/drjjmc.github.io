@@ -3,7 +3,7 @@ title: Journal impact factors???
 categories:
 - thoughts
 header:
-   teaser: http://prettypictures.com/images/citation.png
+   teaser: http://prettyquestions.com/images/citation.png
 tags:
 - sociology
 - the academy
@@ -37,7 +37,7 @@ they're irrelevant[^journals] for
 
 Why wait on the judgment of a handful of other folk to *bless* the possible keys to the universe when you can just read the preprint yourself.  If you can't understand the paper you probably are in no position to judge it, so offload. What if for some random reason you need to measure the importance?   I can't count the number of times I've heard (and probably said),
 "What the hell, if you're too lazy to bother reading and understanding a paper[^2lazy],
-just look at it's citation count [^citeC] for impact, that's what [inSPIRE](http://inspirehep.net)
+just look at it's citation count[^citeC] for impact, that's what [inSPIRE](http://inspirehep.net)
 is for!"
 
 Obviously I'm not going to justify laziness, but at some point--really early on--I came to live with
