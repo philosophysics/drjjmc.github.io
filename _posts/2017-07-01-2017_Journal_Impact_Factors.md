@@ -12,7 +12,7 @@ tags:
 - the academy
 - publication
 author: John_Joseph
-excerpt: Wherein I relate formal theorists to carnivorous mustelids.
+excerpt: Wherein I relate formal theorists to *Mellivora capensis*.
 pinned: false
 ---
 
