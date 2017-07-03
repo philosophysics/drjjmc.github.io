@@ -1,19 +1,19 @@
 ---
+layout: single
 permalink: /comments/
 title: "Commenting policy"
 modified: 2017-06-14
-author_profile: false
+author: John_Joseph
 comments: true
 ---
 
 {% include base_path %}
+{% include toc %}
 
 ## Posting and commenting policy - June 2017
 
-This version of the site policy was posted in June 2017 and applies going forward from then. I'll provide an updated link whenever I update the policy.
+This version[^cite]  of the site policy was posted in June 2017 and applies going forward from then. I'll provide an updated link whenever I update the policy.
 
-The text was lifted Titus Browns site policy at
-[http://ivory.idyll.org/blog/2015-site-policies.html](http://ivory.idyll.org/blog/2015-site-policies.html) which was in term modified from Captain Awkward's site policy at  [http://captainawkward.com/site-policies-and-faqs/](http://captainawkward.com/site-policies-and-faqs/).
 
 I'm open to suggestions for additions and removals; please post them in comments. However, this set of policies stands until I change them - thanks for abiding by them!
 
@@ -52,8 +52,11 @@ A non-comprehensive list of some common reasons comments are deleted:
  * Sarcasm, curse words, gentle mocking, criticism and vehement disagreement are generally allowed, as long as the overall spirit is constructive and in good faith.
  * You're otherwise being useless, uninformative, or destructive.
 
-Having your comment deleted or being asked to stop commenting in a particular thread or to move on from a topic of discussion is **IN NO WAY** an invitation for you to send me lengthy emails detailing your thoughts. If I wanted to read *Your Thoughts* I would have let you keep posting them.
+Having your comment deleted or being asked to stop commenting in a particular thread or to move on from a topic of discussion is **IN NO WAY** an invitation for lengthy emails detailing your thoughts.
 
 You can always reach me via [email](mailto:jjmc@prettyquestions.com) or on Twitter at [@jjmc](http://www.twitter.com/jjmc).
 
 -jjmc
+{: style="color:gray; font-size: 80%; text-align: right;"}
+
+[^cite]: The text was lifted from, and in concordance with, C. Titus Brown's site policy at [http://ivory.idyll.org/blog/2015-site-policies.html](http://ivory.idyll.org/blog/2015-site-policies.html) which was in term modified from Captain Awkward's site policy at [http://captainawkward.com/site-policies-and-faqs/](http://captainawkward.com/site-policies-and-faqs/).
