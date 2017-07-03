@@ -30,5 +30,6 @@ Found on:
 
 -JJMC
 {: style="color:gray; font-size: 80%; text-align: right;"}
+
 (see also [my group's page credits](http://fancyphysics.org/credits).)
 {: style="font-size: 80%; text-align: right;"}
