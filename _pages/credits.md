@@ -28,7 +28,7 @@ Found on:
 * C. Titus Brown's blog [Living in an Ivory Basement](http://ivory.idyll.org/blog/)
   * Sensible [comment policy](http://ivory.idyll.org/blog/2015-site-policies.html).
 
--jjmc
+-JJMC
 {: style="color:gray; font-size: 80%; text-align: right;"}
 
 
