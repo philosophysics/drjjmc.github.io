@@ -96,7 +96,7 @@ produced and post-docs competing for positions, not to mention the output of our
 high-drive hires over the past $$X$$-decades still producing at a tremendous rate, we have a flood of data.
 There's a fair bit of time for people to build up their street-cred, and enough people generating papers that you don't have to wait all that long to see if people care about what you're doing.
 
-Is this healthy? I don't know -- a lot of permanent hires these days are spectacular[^hires].  We "loose" fantastic
+Is this healthy? I don't know -- a lot of permanent hires these days are spectacular[^hires].  We "lose" fantastic
 people to industry, people we've invested a tremendous amount in training, and people who have
 given us tremendous energy, ideas, and stimulation. This is one reason we should all work towards making
 the transition between industry and academia much more two-way at *all* career stages. We should invest in leveraging those industries that benefit from our training, to help support  general soft-term research positions,
