@@ -38,7 +38,7 @@ Introducing graph methods for modern amplitude calculation.  Topics:
 
 * Introduction to Color-Kinematics
 
-Unsatisfactory tensile strength of one leg necessitated a little creativity in lecturing.  I didn't want to present a straight-up slide show which I find a little off-putting for lectures. Rather I decided to live-generate a Mathematica notebook as the projected lecture. Obviously this could be incredibly off-putting, but it's the type of thing I would've loved to see when I entered this field in 2006.
+Unsatisfactory tensile strength of one leg necessitated a little creativity in lecturing.  I didn't want to present a straight-up slide show which I find a little off-putting for lectures. Rather I decided to (for the first time as a lecturer) live-generate a Mathematica notebook as the projected lectures. Obviously this could be *incredibly* off-putting, but it's the type of thing I would've loved to see when I entered this field in 2006.
 
 Indeed, I organized around what I had to do as a grad student to think through and understand the graphical mechanics behind the first paper that made sense to me re: the unitarity method -- the spectacular 1998 two loop maximally supersymmetric supergravity calculation of Bern, Dixon, Dunbar, Perelstein and Rozowsky. You can find the paper  [here](https://arxiv.org/abs/hep-th/9802162).  
 
