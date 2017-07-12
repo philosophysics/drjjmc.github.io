@@ -2,10 +2,10 @@
 title: Summer School Lectures for Amplitudes 2017...
 excerpt: Video & computational notebook generated as live-lectures posted.
 header:
-   teaser: doubleCopy.png
+   teaser: fivePt.png
    overlay_color: "#5e616c"
-   overlay_image: doubleCopy.png
-   overlay_filter: .2
+   overlay_image: fivePt.png
+   overlay_filter: .6
 categories:
 - lectures
 tags:
