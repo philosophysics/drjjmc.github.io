@@ -12,7 +12,7 @@ tags:
 - fracture recovery
 - video
 author: John_Joseph
-pinned: true
+pinned: false
 ---
 
 So April 26, 2017, I managed to [fracture my left leg](/good_decisions/X-rays/) in multiple places after making a commute-based error in judgement re: taking a fine skateboard down absolutely the wrong hill.
