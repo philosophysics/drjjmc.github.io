@@ -2,9 +2,9 @@
 title: Ankle mobility therapy...
 excerpt: Video of exercises for post pileon fracture recovery.
 header:
-   teaser: fracSlide.png
+   teaser: ankleMob.png
    overlay_color: "#5e616c"
-   overlay_image: fracSlide.png
+   overlay_image: ankleMob.png
    overlay_filter: .2
 categories:
 - good_decisions
