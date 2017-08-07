@@ -2,7 +2,7 @@
 permalink: /credits/
 layout: single
 title: "Credits"
-modified: 2016-08-07
+modified: 2017-08-07
 header:
  overlay_color: "#5e616c"
  overlay_image: me2.jpg
