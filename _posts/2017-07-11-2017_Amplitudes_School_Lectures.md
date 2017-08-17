@@ -54,7 +54,7 @@ I did a little post-cleanup to make it somewhat more readable for people who don
 
 I don't emphasize it but I've dropped in some pretty [chonto](http://www.urbandictionary.com/define.php?term=chonto) casually tossed off calculations like automatically taking gauge integrands to symmetric double-copy gravity cuts via KLT, and evaluating 4D state sums for generic cuts in choose-your-SUSY gauge theories at the push of a button. As these weren't (primarily) graphical methods they weren't central to these lectures, but I can probably be tempted into writing some words about them at some point.  
 
-Notebook uses my github hosted amplitudes graph library [ampGraphTools]((https://github.com/drjjmc/ampGraphTools_mma)). (No need to install the library, it imports directly from github if the lectures' notebook is executed.)  Presented with an emphasis on output, not so much on code/library use, but does provide a slice of insight into how I actively think through this graphical playground when I'm poking about.
+Notebook uses my github hosted amplitudes graph library [ampGraphTools](https://github.com/drjjmc/ampGraphTools_mma). (No need to install the library, it imports directly from github if the lectures' notebook is executed.)  Presented with an emphasis on output, not so much on code/library use, but does provide a slice of insight into how I actively think through this graphical playground when I'm poking about.
 
 As a side note, I saved the notebook periodically throughout my lecture, and had it temporarily hosted on a dropbox folder accessed via a bit.ly link for students to grab as they liked.  Interesting to see the stats of how many students bothered to grab the notebook vs who couldn't care less.
 
