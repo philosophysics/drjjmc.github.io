@@ -5,7 +5,7 @@ header:
    teaser: fl360.gif
    overlay_color: "#5e616c"
    overlay_image: fl360.gif
-   overlay_filter: .2
+   overlay_filter: .4
 categories:
 - notes
 tags:
