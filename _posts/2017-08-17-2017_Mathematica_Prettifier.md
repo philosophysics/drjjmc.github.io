@@ -2,9 +2,9 @@
 title: Mathematica highlighting...
 excerpt: Testing out a new syntax highlighter.. 
 header:
-   teaser: doubleCopy.png
+   teaser: fl360.gif
    overlay_color: "#5e616c"
-   overlay_image: doubleCopy.png
+   overlay_image: fl360.gif
    overlay_filter: .2
 categories:
 - notes
