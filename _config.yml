@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Joseph M. Carrasco"
-title_separator          : "-"
-name                     : &name "John Joseph M. Carrasco"
-description              : &description "Personal website for John Joseph M. Carrasco.  I'm a theoretical physicist and cosmologist in Paris."
-url                      : "http://prettyquestions.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "Gabriele Di Ubaldo"
+title_separator          : "|"
+name                     : &name "Gabriele Di Ubaldo"
+description              : &description "My personal website as a Theoretical Physics student in Paris."
+url                      : "http://philosophysics.github.io/gdiubaldo" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "drjjmc/drjjmc.github.io"
+repository               : ""
 teaser                   : "me.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
