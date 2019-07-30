@@ -5,7 +5,6 @@ John_Joseph:
   bio         : "École Normale Supérieure"
   location    : "Paris"
   avatar      : "me.jpg"
-  
   twitter     : 
   facebook    :
   linkedin    : 
@@ -13,7 +12,7 @@ John_Joseph:
   github      : 
   impactstory : 
   inspirehep  : 
-  email       :"gabriele.di.ubaldo@ens.fr"
+  email       : "gabriele.di.ubaldo@ens.fr"
   google_scholar     : 
   google_plus : 
 
