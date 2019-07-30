@@ -83,8 +83,8 @@ analytics:
 author:
   name             : *name
   avatar           : "me.jpg" #"michael-rose.jpg"
-  bio              : #"Just another boring, tattooed, time traveling, designer."
-  location         : #"Buffalo, NY"
+  bio              : "Master's student in Theoretical Physics, École Normale Supérieure "
+  location         : "Paris, France"
   email            : "gabriele.di.ubaldo@ens.fr"
   uri              : #"https://mademistakes.com"
   bitbucket        :
