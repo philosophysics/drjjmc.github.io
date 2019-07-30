@@ -56,20 +56,20 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "jjmc"
+  username               : &twitter ""
 facebook:
-  username               : &facebook "drjjmc"
+  username               : &facebook ""
   app_id                 :
   publisher              :
-og_image                 : "me.png" # Open Graph/Twitter default site image
+og_image                 : ".png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-          - "https://twitter.com/jjmc"
-          - "https://facebook.com/drjjmc"
+          - ""
+          - ""
 
 # Analytics
 analytics:
@@ -85,7 +85,7 @@ author:
   avatar           : "me.jpg" #"michael-rose.jpg"
   bio              : #"Just another boring, tattooed, time traveling, designer."
   location         : #"Buffalo, NY"
-  email            : "jjmc@prettyquestions.com"
+  email            : "gabriele.di.ubaldo@ens.fr"
   uri              : #"https://mademistakes.com"
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "drjjmc"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
