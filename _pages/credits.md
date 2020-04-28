@@ -5,7 +5,7 @@ title: "Credits"
 modified: 2017-08-07
 header:
  overlay_color: "#5e616c"
- overlay_image: me2.jpg
+ overlay_image: crabnebhd-1.png
  overlay_filter: .4
  caption: ""
 author: John_Joseph
