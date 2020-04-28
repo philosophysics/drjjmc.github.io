@@ -5,6 +5,7 @@ title: "Research"
 header:
   overlay_color: "#5e616c"
   overlay_image: crabnebhd-1.png
+  caption: "[Image credit: **NASA/ESA**](https://www.spacetelescope.org/images/heic0515a/)"
   overlay_filter: .1
 excerpt: 
 author: John_Joseph
