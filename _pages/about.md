@@ -6,7 +6,7 @@ permalink: /about/
 modified: 2018-08-23
 header:
   overlay_image:  	crabnebhd-1.png
-excerpt: "<br>"
+excerpt: 
 author: John_Joseph
 comments: true
 ---
