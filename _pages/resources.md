@@ -1,8 +1,8 @@
 ---
-title: "About me"
+title: "Physics Resources"
 layout: archive
 tags:
-permalink: /about/
+permalink: /Resources/
 modified: 2018-08-23
 header:
   overlay_image:  	crabnebhd-1.png
