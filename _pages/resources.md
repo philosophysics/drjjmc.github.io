@@ -19,13 +19,13 @@ During the course of my studies I have realized how invaluable a well written se
 Here I collect lecture notes and resources which I have found to be valuable (if I have studied from them) or that struck me as well written and which I plan to read at some point. I must recognize I was somewhat inspired by Gerard 't Hooft's website
 <a href="http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html"> How to become a good Theoretical Physicist </a> and I encourage you to visit it. 
 
-
+I try to divide when possible by subject but, especially for advanced topics, they tend to mix a little. You will also find links to other collections of notes.
 
 
 ## QFT
 
 
-### GR 
+## GR 
 
 
 
