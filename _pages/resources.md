@@ -2,7 +2,7 @@
 title: "Physics Resources"
 layout: archive
 tags:
-permalink: /Resources/
+permalink: /resources/
 modified: 2018-08-23
 header:
   overlay_image:  	crabnebhd-1.png
