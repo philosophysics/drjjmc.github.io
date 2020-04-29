@@ -13,6 +13,8 @@ comments: true
 ---
 
 
+## Bio
 
+<a href="philosophysics.github.io/site/CV/CV.pdf" target="_blank">CV</a>
 
 
