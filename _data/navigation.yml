@@ -9,7 +9,7 @@ main:
     url: /research/
 
   - title: "Resources"
-    url: /code/
+    url: resources/
 
   - title: "Blog"
     url: /blog/
