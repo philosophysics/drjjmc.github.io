@@ -1,6 +1,6 @@
 ---
 title: "Physics Resources"
-layout: archive
+layout: single
 tags:
 permalink: /resources/
 modified: 2018-08-23
