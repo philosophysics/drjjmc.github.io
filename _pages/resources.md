@@ -36,11 +36,17 @@ I try to divide when possible by subject but, especially for advanced topics, th
   
   * 
   
-  </p>
+</p>
 </details>
 
 
-## GR 
 
+<details><summary>GR</summary>
+<p>
+  
+  * 
+  
+</p>
+</details>
 
 
