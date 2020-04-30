@@ -23,9 +23,8 @@ I try to divide when possible by subject but, especially for advanced topics, th
 
 
 
-<details>
-<summary>## QFT</summary>
-<br>
+<details><summary>QFT</summary>
+<p>
   * David Tong's introductory <a href="http://www.damtp.cam.ac.uk/user/tong/qft.html
 "> QFT </a> notes are a great place to start if you haven't encountered QFT yet. A third year student with good knowledge of QM should find them accesible.  A complementary book of roughly the same level is the one by Maggiore with the bonus of quite a few worked examples and solved problems.
 
@@ -34,6 +33,8 @@ I try to divide when possible by subject but, especially for advanced topics, th
   * Brando Bellazzini and Stephane Lavignac's QFT II course at ENS was very good. Brando's <a href="https://sites.google.com/site/brandobellazzini/teaching?authuser=0" > website </a> has notes for all of his lectures, exercise sessions and homework problems (with solutions). The notes are handwritten but very readable, the homework is Latexed and so are the solutions. The course's two main topics are non abelian gauge theories and spontaneous symmetry breaking. Brando was often original and did not follow a textbook which makes his notes quite valuable.
   
   * 
+  
+  </p>
 </details>
 
 
