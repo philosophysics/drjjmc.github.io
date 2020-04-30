@@ -34,7 +34,7 @@ I try to divide when possible by subject but, especially for advanced topics, th
   Exercises, I believe,  are the backbone of a physicist's education and one should spend at least as much time doing exercises as reading the theory. Solutions to problems are then a great asset if used correctly. Although I haven't studied much from P&S, I have used it for the problems and the combination with these solutions probably make it the best place to study the fundamentals of QFT from.
 </p>
 
-<p>  <span>&#8227;</span> Brando Bellazzini and Stephane Lavignac's QFT II course at ENS. <br>
+<p>  <span>&#8226;</span> Brando Bellazzini and Stephane Lavignac's QFT II course at ENS. <br>
   I really enjoyed this course and Brando's <a href="https://sites.google.com/site/brandobellazzini/teaching?authuser=0" > website </a> contains notes for all of his lectures, exercise sessions and homework problems (with solutions). The notes are handwritten but very readable, the homework is in Latex and so are the solutions. The course's two main topics are non abelian gauge theories and spontaneous symmetry breaking. Brando was often original and did not follow a textbook which makes his notes quite valuable.
 </p>
 
