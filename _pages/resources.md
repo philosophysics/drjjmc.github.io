@@ -23,12 +23,12 @@ I try to divide when possible by subject but, especially for advanced topics, th
 
 
 ## QFT
-..* David Tong's introductory <a href="http://www.damtp.cam.ac.uk/user/tong/qft.html
+  * David Tong's introductory <a href="http://www.damtp.cam.ac.uk/user/tong/qft.html
 "> QFT </a> notes are a great place to start if you haven't encountered QFT yet. A third year student with good knowledge of QM should find them accesible.  A complementary book of roughly the same level is the one by Maggiore with the bonus of quite a few worked examples and solved problems.
 
-..* Solutions to Peskin and Schroeder by  <a href="https://zzxianyu.com/notes/">  Zhong-Zhi Xianyu </a>. Exercises, I believe,  are the backbone of a physicist's education and one should spend at least as much time doing exercises as reading the theory. Solutions to problems are then a great asset if used correctly. Although I haven't studied much from P&S, I have used it for the problems and the combination with these solutions probably make it the best place to study the fundamentals of QFT from.
+  * Solutions to Peskin and Schroeder by  <a href="https://zzxianyu.com/notes/">  Zhong-Zhi Xianyu </a>. Exercises, I believe,  are the backbone of a physicist's education and one should spend at least as much time doing exercises as reading the theory. Solutions to problems are then a great asset if used correctly. Although I haven't studied much from P&S, I have used it for the problems and the combination with these solutions probably make it the best place to study the fundamentals of QFT from.
 
-..* 
+  * 
 
 ## GR 
 
