@@ -25,6 +25,8 @@ I try to divide when possible by subject but, especially for advanced topics, th
 
 <details><summary>QFT</summary>
 <p>
+  
+  
   * David Tong's introductory <a href="http://www.damtp.cam.ac.uk/user/tong/qft.html
 "> QFT </a> notes are a great place to start if you haven't encountered QFT yet. A third year student with good knowledge of QM should find them accesible.  A complementary book of roughly the same level is the one by Maggiore with the bonus of quite a few worked examples and solved problems.
 
