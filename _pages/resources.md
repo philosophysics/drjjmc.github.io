@@ -24,7 +24,7 @@ I try to divide when possible by subject but, especially for advanced topics, th
 
 
 <details><summary>QFT</summary>
-<p>
+<span>
   
   
   * David Tong's introductory <a href="http://www.damtp.cam.ac.uk/user/tong/qft.html
@@ -36,7 +36,7 @@ I try to divide when possible by subject but, especially for advanced topics, th
   
   * 
   
-</p>
+</span>
 </details>
 
 
