@@ -20,8 +20,10 @@ Here I collect lecture notes and resources which I have found to be valuable (if
 <a href="http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html"> How to become a good Theoretical Physicist </a> and I encourage you to visit it. 
 
 I try to divide when possible by subject but, especially for advanced topics, they tend to mix a little. You will also find links to other collections of notes. I will try to follow an order of increasing difficulty, which can be useful to fellow students. The notes are mostly of "graduate" level and forwards, basically meaning from the 4th year of physics education onwards. 
-<br>
-Finally, the following are ultimately the opinions of a student, not of a theoretical physicist so even if I try my best to give an informative assessment of these resources based on my experience, it is rather probable that I will make some wrong or inaccurate or biased considerations. Please do reach out with any constructive criticism you might have, I will appreciate it!
+
+
+Finally, the following are ultimately the opinions of a student, not of a theoretical physicist so even if I try my best to give an informative assessment of these resources based on my experience, it is rather probable that I will make some wrong or inaccurate or biased considerations. 
+Please do reach out with any constructive criticism you might have, I will appreciate it!
 
 
 
