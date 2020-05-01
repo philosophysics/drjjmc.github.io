@@ -19,7 +19,9 @@ During the course of my studies I have realized how invaluable a well written se
 Here I collect lecture notes and resources which I have found to be valuable (if I have studied from them) or that struck me as well written and which I plan to read at some point. I must recognize I was somewhat inspired by Gerard 't Hooft's website
 <a href="http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html"> How to become a good Theoretical Physicist </a> and I encourage you to visit it. 
 
-I try to divide when possible by subject but, especially for advanced topics, they tend to mix a little. You will also find links to other collections of notes. I will try to follow an order of increasing difficulty, which can be useful to fellow students. The notes are mostly of "graduate" level and forwards, basically meaning from the 4th year of physics education onwards.
+I try to divide when possible by subject but, especially for advanced topics, they tend to mix a little. You will also find links to other collections of notes. I will try to follow an order of increasing difficulty, which can be useful to fellow students. The notes are mostly of "graduate" level and forwards, basically meaning from the 4th year of physics education onwards. 
+<br>
+Finally, the following are ultimately the opinions of a student, not of a theoretical physicist so even if I try my best to give an informative assessment of these resources based on my experience, it is rather probable that I will make some wrong or inaccurate or biased considerations. Please do reach out with any constructive criticism you might have, I will appreciate it!
 
 
 
@@ -40,7 +42,7 @@ I try to divide when possible by subject but, especially for advanced topics, th
 
   
 <p>  <span>&#8226;</span> SISSA's PhD courses QFT <a href="http://www.sissa.it/tpp/phdsection/download.php?ID=1&filename=QFT_Review_Sep9_2019.pdf" > I </a> by Marco Serone and QFT <a href="https://people.sissa.it/~percacci/lectures/topmet/index.html" > II </a> by Roberto Percacci.  <br> 
-  SISSA's PhD courses are in general very good (notes wise at least), it's worth checking out the Theoretical Particle Physics (<a href="https://www.sissa.it/tpp/index.php">TPP</a>), the AstroParticle Physics (<a href="https://www.sissa.it/app/index.php">APP</a>) and the <a href="https://www.statphys.sissa.it/wordpress/">Statistical Physics </a> groups for useful material (and cool research!).
+  SISSA's PhD courses are in general very good (notes-wise at least). It's worth checking out the Theoretical Particle Physics (<a href="https://www.sissa.it/tpp/index.php">TPP</a>), the AstroParticle Physics (<a href="https://www.sissa.it/app/index.php">APP</a>) and the <a href="https://www.statphys.sissa.it/wordpress/">Statistical Physics </a> groups for useful material (and cool research!).
   The QFT I notes are very good, covering in depth all the fundamental topics of QFT (have a look at the index!). All the techniques developed are then put to use in a final study of the Abelian Higgs model. Definitely notes to master if one wants to have a solid knowledge of field theory, especially for high energy applications. 
   The QFT II notes cover some "advanced" topics like solitons, instantons, skyrmions, vortices and all that and they give a more advanced treatment of anomalies than the QFT I lectures along with critical phenomena  and other things. They are the best notes I have found that treat these topics in a cohesive way (if you know better, please tell me!). 
   
