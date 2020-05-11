@@ -48,7 +48,7 @@ Please do reach out with any constructive criticism you might have, I will appre
 <br> <br>
   SISSA's PhD courses are in general very good (notes-wise at least). It's worth checking out the Theoretical Particle Physics (<a href="https://www.sissa.it/tpp/index.php">TPP</a>), the AstroParticle Physics (<a href="https://www.sissa.it/app/index.php">APP</a>) and the <a href="https://www.statphys.sissa.it/wordpress/">Statistical Physics </a> groups for useful material (and cool research!). 
   The QFT I notes are very good, covering in depth all the fundamental topics of QFT (have a look at the index!). All the techniques developed are then put to use in a final study of the Abelian Higgs model. Definitely notes to master if one wants to have a solid knowledge of field theory, especially for high energy applications. <br>
-  The QFT II notes cover some "advanced" topics like solitons, instantons, skyrmions, vortices and all that and they give a more advanced treatment of anomalies than the QFT I lectures along with critical phenomena  and other things. They are the best notes I have found that treat these topics in a cohesive way (if you know better, please tell me!). 
+  The QFT II notes cover some "advanced" topics like solitons, instantons and all that and they give a more advanced treatment of anomalies than the QFT I lectures along with critical phenomena and other things. They are the best notes I have found that treat these topics in a cohesive way (if you know better, please tell me!). 
   
   
   <p>  <span>&#8226;</span> David Tong's notes on Gauge Theory.
