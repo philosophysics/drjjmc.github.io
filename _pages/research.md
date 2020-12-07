@@ -14,7 +14,7 @@ comments: false
 
 During my studies I have had the chance to be involved in some interesting research projects. 
 
-- Currently I am conducting my M2 internship with [Elias Kiritsis](http://hep.physics.uoc.gr/~kiritsis/) and Francesco Nitti working on holography. In particular I am studying holographic phase transitions and RG flows which generalize the Hawking-Page transition. 
+- I conducted my M2 internship with [Elias Kiritsis](http://hep.physics.uoc.gr/~kiritsis/) and Francesco Nitti working on some aspects of holography. In particular, I studied holographic phase transitions and the corresponding RG flows which generalize the Hawking-Page transition. 
 
 - Last year I was a summer student at DAMTP, Cambridge University. I worked in the [Relativity and Gravitation](https://www.damtp.cam.ac.uk/research/gr/) group with [Cora Uhlemann](https://corauhlemann.webs.com/) on Cosmology and Large Scale Structure of the universe. In particular we worked on statistics of biased tracers of large scale structure. 
 
