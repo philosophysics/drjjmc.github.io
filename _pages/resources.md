@@ -85,9 +85,13 @@ Please do reach out with any constructive criticism you might have, I will appre
  
  <p>  <span>&#8226;</span>  Geoffrey Compère's  <a href="https://arxiv.org/abs/1801.07064" > notes </a> on advanced topics in GR <br><br>
   These notes are excellent for starting PhD students in gravity and related fields, especially in holography. They cover many advanced topics which are fundamental for research:  
+  
  - The covariant phase space formalism needed to fully understand conserved charges in GR.
+  
  - 3D gravity, BTZ black holes and the Chern-Simons formulation. 
+ 
  - Asymptotic symmetries and, in particular, asymptotically flat spacetimes and the BMS group and memory effect.
+ 
  - Advanced topics about Kerr black holes like the Kerr/CFT correspondence and quasi-normal modes.
  
  </p>
