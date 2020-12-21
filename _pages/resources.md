@@ -68,7 +68,35 @@ Please do reach out with any constructive criticism you might have, I will appre
 
 
 <details><summary>GR</summary>
-- Hi
+<p>  <span>&#8226;</span>  David Tong's  <a href="http://www.damtp.cam.ac.uk/user/tong/gr.html" > GR </a> notes   <br><br>
+  These are quite new but, as always with Tong, they are excellent to approach the subject and they also start to cover some more advanced topics. Definitely good place to start. A good complementary book for the basics is Schutz's 'A first course in General Relativity'. 
+ 
+ </p>
+ 
+ <p>  <span>&#8226;</span>  Harvey Reall's  <a href="http://www.damtp.cam.ac.uk/user/hsr1000/teaching.html" > notes </a> on  GR  and black holes <br><br>
+  Reall's notes on GR are also an excellent starting point. They are a bit more formal than Tong's and cover slightly different topics. My reccomendation would be to read a bit of both and then decide which suits you best and stick to it. His notes on black holes are also very good and formal. In particular, they cover the initial value problem and singularity theorems. Many parts are structured as math books with definitions, propositions and theorems.
+ 
+ </p>
+ 
+  <p>  <span>&#8226;</span>  Paul Townsends's  <a href="https://arxiv.org/abs/gr-qc/9707012" > notes </a> on black holes <br><br>
+ Tonwsend's historical notes on black holes are a standard reference and very good for students who want to get into it. He does not cover singularity theorems like Reall though. Again, check both his notes and Reall's and decide what is best for your objectives. Personally, I enjoy better Townsend's style. 
+ 
+ </p>
+ 
+ <p>  <span>&#8226;</span>  Geoffrey Compère's  <a href="https://arxiv.org/abs/1801.07064" > notes </a> on advanced topics in GR <br><br>
+  These notes are excellent for starting PhD students in gravity and related fields, especially in holography. They cover many advanced topics which are fundamental for research:  
+ - The covariant phase space formalism needed to fully understand conserved charges in GR.
+ - 3D gravity, BTZ black holes and the Chern-Simons formulation. 
+ - Asymptotic symmetries and, in particular, asymptotically flat spacetimes and the BMS group and memory effect.
+ - Advanced topics about Kerr black holes like the Kerr/CFT correspondence and quasi-normal modes.
+ 
+ </p>
+ 
+  <p>  <span>&#8226;</span> <a href="https://webspace.science.uu.nl/~vando101/" >  Notes </a>  on black holes edited by Stefan Vandoren and Riccardo Borsato <br><br>
+ I haven't personally studied much from the but they seem very complete and well done. They are very didactical and cover many special topics like black branes in AdS, no-hair theorems and perturbations of black hole geometries which are useful from astrophysics to holography.
+ </p>
+ 
+ 
 </details>
 
 <details><summary>Other collections of resources</summary>
