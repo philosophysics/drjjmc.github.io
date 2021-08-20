@@ -83,7 +83,7 @@ analytics:
 author:
   name             : *name
   avatar           : "me.jpg" #"michael-rose.jpg"
-  bio              : "École Normale Supérieure "
+  bio              : "École Normale Supérieure and IPhT CEA Saclay"
   location         : "Paris, France"
   email            : "gabriele.di.ubaldo@ens.fr"
   uri              : #"https://mademistakes.com"
